@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Petrel
+    maxdepth: 2
+    chapters:
+    - file: petrel/00_intro.md
+      sections:
+        - file: petrel/01_startup.md
+        - file: petrel/02_project-management.md
+        - file: petrel/03_interface.md
+
