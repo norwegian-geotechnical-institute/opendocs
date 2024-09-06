@@ -12,4 +12,6 @@ parts:
         - file: petrel/01_startup.md
         - file: petrel/02_project-management.md
         - file: petrel/03_interface.md
-
+  - caption: Bibliography
+    chapters:
+    - file: bibliography.md
